@@ -1,0 +1,9 @@
+www
+mail
+ftp
+admin
+test
+api
+blog
+dev
+
