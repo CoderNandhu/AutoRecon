@@ -30,3 +30,10 @@ git clone https://github.com/your-username/AutoRecon.git
 cd AutoRecon
 pip install -r requirements.txt
 python3 main.py
+
+👨‍💻 Author
+
+Neo (aka mr_black)
+LinkedIn Profile
+Cybersecurity Student at RedTeam Hacker Academy
+Bug Bounty & Ethical Hacking Enthusiast
